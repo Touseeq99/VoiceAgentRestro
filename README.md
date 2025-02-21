@@ -1,7 +1,5 @@
 # VoiceAgentRestro
 
----
-
 # Restaurant Voice Assistant
 
 This project is a fully free, real-time voice assistant for a restaurant. It leverages LiveKit’s Agents Framework to create a voice agent that uses:
