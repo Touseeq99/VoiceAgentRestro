@@ -1,7 +1,5 @@
 # VoiceAgentRestro
 
-Below is an example of a README file in Markdown format for your project:
-
 ---
 
 # Restaurant Voice Assistant
